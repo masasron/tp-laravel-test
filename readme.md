@@ -14,7 +14,7 @@
 
 [PostReviewsController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostReviewsController.php)
 
-### Fron End
+### Front End
 [App.js](https://github.com/masasron/tp-laravel-test/blob/master/resources/assets/js/app.js)
 
 [PostPage.vue](https://github.com/masasron/tp-laravel-test/blob/master/resources/assets/js/routes/PostPage.vue)
