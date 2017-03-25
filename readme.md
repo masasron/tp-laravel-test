@@ -12,8 +12,11 @@
 
 ### Fron End
 [App.js](https://github.com/masasron/tp-laravel-test/blob/master/resources/assets/js/app.js)
+
 [PostPage.vue](https://github.com/masasron/tp-laravel-test/blob/master/resources/assets/js/routes/PostPage.vue)
+
 [HomePage.vue](https://github.com/masasron/tp-laravel-test/blob/master/resources/assets/js/routes/HomePage.vue)
+
 [Reusable Vue Component](https://github.com/masasron/tp-laravel-test/tree/master/resources/assets/js/components)
 
 
