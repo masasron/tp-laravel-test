@@ -10,7 +10,7 @@
 ##### Rating
 [PostRatingController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostRatingController.php)
 ##### Review
-[ReviewController.php](https://github.com/masasron/tp-laravel-test/blob/master/routes/api.php)
+[ReviewController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/ReviewController.php)
 
 [PostReviewsController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostReviewsController.php)
 
