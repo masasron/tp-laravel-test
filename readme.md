@@ -4,10 +4,14 @@
 [Routes](https://github.com/masasron/tp-laravel-test/blob/master/routes/api.php)
 ##### Post
 [PostController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostController.php)
+
+[JsonPlaceholderApi.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Libraries/JsonPlaceholderApi.php)
+
 ##### Rating
 [PostRatingController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostRatingController.php)
 ##### Review
 [ReviewController.php](https://github.com/masasron/tp-laravel-test/blob/master/routes/api.php)
+
 [PostReviewsController.php](https://github.com/masasron/tp-laravel-test/blob/master/app/Http/Controllers/Api/PostReviewsController.php)
 
 ### Fron End
