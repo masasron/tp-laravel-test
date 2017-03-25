@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Api;
 
 use App\Rating;
+use App\Http\Controllers\Api\ApiController;
 use App\Http\Requests\StorePostRatingRequest;
 
 class PostRatingController extends ApiController

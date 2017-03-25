@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Api;
 
 use App\Review;
+use App\Http\Controllers\Api\ApiController;
 use App\Http\Requests\StorePostReviewRequest;
 
 class PostReviewsController extends ApiController

@@ -1,9 +1,10 @@
 <?php
 
-namespace App\Http\Controllers;
+namespace App\Http\Controllers\Api;
 
 use App\Review;
 use App\Http\Requests\StoreReviewRequest;
+use App\Http\Controllers\Api\ApiController;
 
 class ReviewController extends ApiController
 {
