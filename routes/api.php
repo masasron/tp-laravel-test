@@ -13,7 +13,7 @@ use Illuminate\Http\Request;
 |
 */
 
-Route::middleware('auth:api')->group(function ($privateRoute) {
+Route::middleware('auth:api')->group(function () {
     Route::prefix('v1')->namespace('Api')->group(function () {
         // View multiple or single review.
         // Handle review modification and deletion.
