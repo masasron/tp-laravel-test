@@ -20,5 +20,5 @@ Auth::routes();
 // Render a list of posts.
 Route::get('/home', 'HomeController@index');
 
-// Render a specified post content, rating, reviews.
+// Render a specified post content, rating and reviews.
 Route::get('/post/{id}', 'HomeController@index');
