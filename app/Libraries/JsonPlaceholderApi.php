@@ -94,11 +94,10 @@ class JsonPlaceholderApi
     /**
      * Create a length aware custom paginator instance.
      *
-     * @param  Collection  $items
      * @param  int         $perPage
      * @return \Illuminate\Pagination\LengthAwarePaginator
      */
-    public function paginate($perPage = 10)
+    public function paginate($perPage = 15)
     {
         // Make sure we have items to paginate.
         if (!$this->items) {
